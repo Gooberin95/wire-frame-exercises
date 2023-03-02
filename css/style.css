@@ -1,14 +1,19 @@
 body {
-    background-color: black;
-    display: flex;
-    justify-content: space-between;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: salmon;
+    
 
 }
 
+nav {
+    background-color: green;
+    margin-top: 10px;
+    height: 150px;
+    padding: 5px;
+    width: 150px;
+    flex-direction: row;
+    border-radius: 10px;
 
 
-div {
-   
-    background-color: orange;
-    
 }
