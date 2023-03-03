@@ -9,7 +9,7 @@
 .container {
     background-color: black;
     height: 205px;
-    width: 505px;
+    width: 100%;
     margin: 5px;
     display: flex;
     flex-direction: row-reverse;
@@ -19,14 +19,11 @@
     
 }
 
-div {
+div, h1 {
     width: 55px;
     height: 55px;
 
 }
 
-h1 {
-    align-items:flex-end;
-}
 
 
