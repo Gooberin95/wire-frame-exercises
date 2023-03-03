@@ -29,13 +29,8 @@ div {
     
 }
 
-#icon {
-    background: url('https://place-hold.it/200x70/orange/white&text=200x70') -91px 0;
-    width: 75px;
-    height: 40px;
-    border-radius: 15px;
-    text-align: center;
-    color: white;
+#hero {
+    justify-content: center;
 
 }
 
