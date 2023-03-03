@@ -1,24 +1,18 @@
-body {
-    background-color: salmon;
-    display:flex;
+body{
+    background-color: slateblue;
+}
+.container {
+    display: flex;
     flex-direction: row;
-    align-items: flex-start;
+    
+    
+    flex-wrap: wrap;
     justify-content: space-around;
+    
 }
 
-nav {
-    
-    background-color: green;
-    padding:25px;
-    border-radius: 15px;
-    
-
-}
-
-#footer {
-    display:flex;
-    background-color: white;
+#box {
     flex-direction: column;
-    
-}
+    justify-content: center;
 
+}
