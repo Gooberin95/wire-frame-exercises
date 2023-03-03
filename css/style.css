@@ -19,7 +19,16 @@ div {
     height: 50px;
 }
 
+#flex-start {
+    flex-direction: row;
+    align-self: center;
+    justify-content: space-around;
+
+
+}
+
 #flex-start div:nth-of-type(5){
     align-self: flex-end;
   }
 
+  
