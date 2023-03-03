@@ -30,10 +30,8 @@ div {
 }
 
 #hero {
-    padding-top: 35px;
-    padding-left: 20%;
-    padding-right: 20%;
-    text-align: center;
+  padding-top: 25px;
+  width: 100%;
 
 }
 
